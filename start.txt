@@ -1,3 +1,4 @@
 Test Git Quick Start Demo
 Simple changes
 Changes in Master branch
+updating for Getting merge conflict
